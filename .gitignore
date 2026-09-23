@@ -1,0 +1,7 @@
+.Rhistory
+.Rapp.history
+.Ruserdata
+.DS_Store
+.Rproj.user
+inputs/*
+attrition_rates.R
