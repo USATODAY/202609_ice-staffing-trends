@@ -16,7 +16,7 @@ rm(list = ls())
 # we will use the 'Accessions' data to examine hires
 
 # list all the monthly files we downloaded since 2005
-# the latest version for each (v3 when available, otherwise v2 or v1)
+# the latest version for each (v4 when available, otherwise v3, v2 or v1)
 # note that the snapshots are from the last day of the month
 files_acc <- tibble(file = list.files("inputs/accessions")) %>%
   mutate(file = file.path("inputs/accessions", file))
