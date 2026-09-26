@@ -16,7 +16,7 @@ Here's what we found:
 
 For a full breakdown of our methodology, you can read and run the `analysis.R` file. 
 
-You can also read our full investigation here: xx
+You can also read our full investigation here: https://www.usatoday.com/story/news/investigations/2026/09/26/ice-workers-quit-in-record-numbers/90862284007/
 
 ## Inputs and outputs
 
